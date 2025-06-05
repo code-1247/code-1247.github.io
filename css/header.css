@@ -741,10 +741,6 @@ div.text-line>p{
     div.right-mobile>ul>li:nth-of-type(1){
         padding-top: 14px;
     }
-    div.right-mobile>ul>li>a>i{
-        width: 28px;
-        height: 28px;
-    }
     div.right-mobile>ul>li:hover{
         background-color: #404040;
     }
@@ -794,7 +790,7 @@ div.input-deletemobile>li.zareh{
     list-style: none;
     position: fixed;
     right: 0;
-    margin-right: 90px;
+    margin-right: 75px;
     text-align: center;
     margin-top: 5px;
     width: 34px;
