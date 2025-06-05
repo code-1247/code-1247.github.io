@@ -7,17 +7,17 @@ div.note{
 }
 div.note>div.note-left{
     width: 50%;
-    cursor: pointer;
 }
 div.note>div.note-left>img{
     width: 100%;
+    cursor: pointer;
 }
 div.note>div.note-right{
     width: 50%;
-    cursor: pointer;
 }
 div.note>div.note-right>img{
     width: 100%;
+    cursor: pointer;
 }
 div.text-img{
     width: 100%;
@@ -129,17 +129,17 @@ div.shop{
 }
 div.shop>div.left-shop{
     width: 50%;
-    cursor: pointer;
 }
 div.shop>div.left-shop>img{
     width: 100%;
+    cursor: pointer;
 }
 div.shop>div.right-shop{
     width: 50%;
-    cursor: pointer;
 }
 div.shop>div.right-shop>img{
     width: 100%;
+    cursor: pointer;
 }
 div.text-shop{
     width: 100%;
