@@ -1117,73 +1117,73 @@ div.left-mobile > ul > div.menu-mobile > div.menu-box.show {
 @media (max-width :395px){
         div.text-box>ul>li:nth-of-type(1){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(2){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(3){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(4){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(5){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(6){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         border-bottom: 1px solid gray;
     }
     div.text-box>ul>li:nth-of-type(7){
         font-family: bold;
-        font-size: 18px;
+        font-size: 16px;
         margin-bottom: 10px;
     }
     div.text-box>ul>li:nth-of-type(8){
         border-bottom: 1px solid gray;
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(9){
         border-bottom: 1px solid gray;
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(10){
         border-bottom: 1px solid gray;
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(11){
         border-bottom: 1px solid gray;
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(12){
         border-bottom: 1px solid gray;
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(13){
         font-family: light;
-        font-size: 16px;
+        font-size: 14px;
     }
     div.text-box>ul>li:nth-of-type(14){
         background-color: black;
         text-align: center;
         font-family: bold;
-        font-size: 16px;
+        font-size: 14px;
         cursor: pointer;
         margin-top: 10px;
     }
