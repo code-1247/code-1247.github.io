@@ -673,16 +673,12 @@ div.text-line>p{
             list-style: none;
         }
         div.left-mobile>ul>div.menu-mobile>li:nth-of-type(1)>i{
-            width: 28px;
-            height: 28px;
             padding-top: 14px;
         }
         div.left-mobile>ul>div.menu-mobile{
             position: relative;
         }
         div.left-mobile>ul>div.button-mobile>i{
-            width: 24px;
-            height: 24px;
             padding-top: 12px;
         }
         div.left-mobile>ul>div.button-mobile{
