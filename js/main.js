@@ -204,12 +204,12 @@ document.querySelectorAll('.toggle-password').forEach(icon => {
     }
   });
 });
-// document.addEventListener('contextmenu', (e)=>{
-//     e.preventDefault();
-// })
-// document.addEventListener('keydown', (e)=>{
-//     if(e.key === 'F12' || e.code === 'F12'){
-//         e.preventDefault();
-//     }
-// })
+document.addEventListener('contextmenu', (e)=>{
+    e.preventDefault();
+})
+document.addEventListener('keydown', (e)=>{
+    if(e.key === 'F12' || e.code === 'F12'){
+        e.preventDefault();
+    }
+})
 });
