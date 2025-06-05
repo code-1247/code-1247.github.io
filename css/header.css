@@ -95,7 +95,7 @@ button{
 button:hover{
     border-color: white;
 }
-button>div.slogo>img{
+button>div.slogo>i{
     padding-top: 5px;
 }
 button>div.text-serch{
@@ -111,7 +111,7 @@ div.right>li{
     text-align: center;
     border-radius: 50%;
     cursor: pointer;
-    padding-top: 8px;
+    padding-top: 11px;
     list-style: none;
 }
 div.right>li:hover{
@@ -505,8 +505,8 @@ div.input-delete>li.zareh{
     border-radius: 50%;
     cursor: pointer;
 }
-div.input-delete>li.zareh>img{
-    margin-top: 4px;
+div.input-delete>li.zareh>i{
+    padding-top: 8px;
 }
 div.input-delete>li.zareh:hover{
     background-color: rgba(128, 128, 128, 0.348);
@@ -521,7 +521,7 @@ button.button{
     outline: none;
     border: none;
 }
-button.button>img{
+button.button>i{
     margin-top: 3px;
 }
 button.button:hover{
@@ -667,21 +667,23 @@ div.text-line>p{
     div.left-mobile>ul{
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 8px;
     }
         div.left-mobile>ul>li{
             list-style: none;
         }
-        div.left-mobile>ul>div.menu-mobile>li:nth-of-type(1)>img{
+        div.left-mobile>ul>div.menu-mobile>li:nth-of-type(1)>i{
             width: 28px;
             height: 28px;
+            padding-top: 14px;
         }
         div.left-mobile>ul>div.menu-mobile{
             position: relative;
         }
-        div.left-mobile>ul>div.button-mobile>img{
+        div.left-mobile>ul>div.button-mobile>i{
             width: 24px;
             height: 24px;
+            padding-top: 12px;
         }
         div.left-mobile>ul>div.button-mobile{
             width: 40px;
@@ -733,9 +735,13 @@ div.text-line>p{
         padding-top: 7px;
     }
     div.right-mobile>ul>li:nth-of-type(2){
-        padding-top: 8px;
+        padding-top: 14px;
+        padding-right: 3px;
     }
-    div.right-mobile>ul>li>a>img{
+    div.right-mobile>ul>li:nth-of-type(1){
+        padding-top: 14px;
+    }
+    div.right-mobile>ul>li>a>i{
         width: 28px;
         height: 28px;
     }
@@ -796,8 +802,8 @@ div.input-deletemobile>li.zareh{
     border-radius: 50%;
     cursor: pointer;
 }
-div.input-deletemobile>li.zareh>img{
-    margin-top: 4px;
+div.input-deletemobile>li.zareh>i{
+    padding-top: 8px;
 }
 div.input-deletemobile>li.zareh:hover{
     background-color: rgba(128, 128, 128, 0.348);
@@ -812,9 +818,10 @@ button.button-close{
     outline: none;
     border: none;
     margin-right: 20px;
+    margin-top: 5px;
 }
-button.button-close>img{
-    margin-top: 3px;
+button.button-close>i{
+    padding-top: 1px;
 }
 button.button-close:hover{
     background-color: rgba(128, 128, 128, 0.348);
@@ -830,6 +837,7 @@ div.left-mobile>ul>div.menu-mobile>div.menu-box{
     z-index: 100;
     background-color: white;
     height: 100vh;
+    transition: all 200ms ease-in-out;
 }
 div.menu-box>div.header-box{
     width: 100%;
@@ -855,9 +863,9 @@ div.header-close-box{
         height: 40px;
         cursor: pointer;
         text-align: center;
-        padding-top: 5px;
+        padding-top: 10px;
 }
-div.header-close-box>img{
+div.header-close-box>i{
     width: 28px;
     height: 28px;
 }
@@ -875,7 +883,7 @@ div.header-box>div.header-right-box{
         justify-content: right;
         padding-right: 30px;
 }
-div.button-mobile>img{
+div.button-mobile>i{
             width: 24px;
             height: 24px;
 }
@@ -883,7 +891,7 @@ div.button-mobile{
             width: 40px;
             height: 40px;
             text-align: center;
-            padding-top: 7px;
+            padding-top: 10px;
             border-radius: 50%;
             cursor: pointer;
 }
@@ -905,12 +913,12 @@ div.header-right-box>ul>li{
         height: 45px;
         text-align: center;
         border-radius: 50%;
-        padding-top: 7px;
+        padding-top: 11px;
 }
     div.header-right-box>ul>li:nth-of-type(2){
-        padding-top: 8px;
+        padding-top: 12px;
     }
-    div.header-right-box>ul>li>a>img{
+    div.header-right-box>ul>li>a>i{
         width: 28px;
         height: 28px;
     }
