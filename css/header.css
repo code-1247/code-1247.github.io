@@ -1183,7 +1183,85 @@ div.left-mobile > ul > div.menu-mobile > div.menu-box.show {
         background-color: black;
         text-align: center;
         font-family: bold;
+        font-size: 1px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+    div.text-line>p{
+    font-family: bold;
+    font-size: 24px;
+}
+}
+@media (max-width :365px){
+     div.text-box>ul>li:nth-of-type(1){
+        font-family: bold;
         font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(2){
+        font-family: bold;
+        font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(3){
+        font-family: bold;
+        font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(4){
+        font-family: bold;
+        font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(5){
+        font-family: bold;
+        font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(6){
+        font-family: bold;
+        font-size: 14px;
+        border-bottom: 1px solid gray;
+    }
+    div.text-box>ul>li:nth-of-type(7){
+        font-family: bold;
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    div.text-box>ul>li:nth-of-type(8){
+        border-bottom: 1px solid gray;
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(9){
+        border-bottom: 1px solid gray;
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(10){
+        border-bottom: 1px solid gray;
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(11){
+        border-bottom: 1px solid gray;
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(12){
+        border-bottom: 1px solid gray;
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(13){
+        font-family: light;
+        font-size: 12px;
+    }
+    div.text-box>ul>li:nth-of-type(14){
+        background-color: black;
+        text-align: center;
+        font-family: bold;
+        font-size: 1px;
         cursor: pointer;
         margin-top: 10px;
     }
